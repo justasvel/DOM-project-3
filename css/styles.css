@@ -1,0 +1,13 @@
+img {
+    width: 200px;
+}
+
+.img-small {
+    width: 100px;
+    padding-bottom: 1rem;
+}
+
+.img-big {
+    width: 300px;
+    padding-bottom: 1rem;
+}
